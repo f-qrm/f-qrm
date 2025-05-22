@@ -12,9 +12,9 @@ I plan to pursue a **Bachelor’s degree specializing in Artificial Intelligence
 
 ## 📂 Holberton Collaborative Projects
 
-- 🔧 [Printf](https://github.com/f-qrm/printf) — Reimplementation of the printf function in C  
-- 🐚 [Simple Shell](https://github.com/f-qrm/simple_shell) — A minimalist UNIX shell in C  
-- 🧮 [Sorting Algorithms & Binary Trees](https://github.com/f-qrm/sorting_algorithms) — Sorting algorithms and binary trees  
+-  [Printf](https://github.com/f-qrm/printf) — Reimplementation of the printf function in C  
+-  [Simple Shell](https://github.com/f-qrm/simple_shell) — A minimalist UNIX shell in C  
+-  [Sorting Algorithms & Binary Trees](https://github.com/f-qrm/sorting_algorithms) — Sorting algorithms and binary trees  
 
 ---
 
