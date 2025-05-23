@@ -6,7 +6,7 @@
 ---
 
 ### Hello, my name is Fjolla
-I am a student in software development in the **Foundations program at Holberton School Thonon-les-Bains**, where I am receiving intensive training in **low-level programming**, **algorithms**, and **development best practices**.
+I am a student in software development in the **Foundations program at Holberton School Thonon-les-Bains**, where I am receiving intensive training in **low-level programming**, **algorithms**, and **development best practices**.  
 I plan to pursue a **Bachelor’s degree specializing in Artificial Intelligence and Machine Learning**, with the ambition of contributing to **innovative and responsible projects in the tech field**.
 
 ---
